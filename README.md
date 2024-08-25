@@ -1,1 +1,1 @@
-This is a readme fie for all react projects
+This is a readme file for all react tasks
