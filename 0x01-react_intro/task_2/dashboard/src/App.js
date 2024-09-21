@@ -1,6 +1,6 @@
 import logo from "./hlogo.jpg";
 import "./App.css";
-import { getFullYear, getFooterCopy, getLatestNotification } from "./utils";
+import { getFullYear, getFooterCopy } from "./utils";
 
 function App() {
   return (

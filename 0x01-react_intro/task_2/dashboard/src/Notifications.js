@@ -3,7 +3,7 @@ import './Notifications.css';
 import closeIcon from './close-icon.png';
 import { getLatestNotification } from './utils';
 
-const Notifications = () => {
+function Notifications() {
 	return (
 		<div className='Notifications'>
 			<p style={{ display: 'inline', marginRight: '80%' }}>
@@ -25,6 +25,6 @@ const Notifications = () => {
 			</ul>
 		</div>
 	);
-};
+}
 
 export default Notifications;
